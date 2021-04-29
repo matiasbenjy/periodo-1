@@ -1,0 +1,93 @@
+body{
+	background-color: pink;
+}
+.cuadrote{
+	background-color: rgba(255,0,0,0.7);
+	height: 630px;
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding: 25px;
+}
+.izq {
+	width: 500px;
+	height: 600px;
+}
+.der{
+	position: absolute;
+	top: 35px;
+	width: 500px;
+	height: 626px;
+	left: 800px;
+}
+.titulo{
+	border: 5px solid white;
+	height: 120px;
+	width: 500px;
+	margin-bottom: 25px;
+}
+.parrafo1{
+	border: 5px solid white;
+	width: 500px;
+	height: 280px;
+	margin-bottom: 25px;
+}
+.foto1{
+	width: 150px;
+	height: 150px;
+	border: 5px solid white;
+}
+.parrafo2{
+	position: absolute;
+	width: 315px;
+	height: 150px;
+	border: 5px solid white;
+	left: 355px;
+	top: 505px;
+}
+.cuadradedito{
+	width: 500px;
+	height: 385px;
+	border: 5px solid white;
+	padding: 25px;margin-bottom: 25px;
+}
+.parrafo3{
+	width: 490px;
+	height: 210px;
+	border: 5px solid white;
+	margin-bottom: 25px;
+}
+.foto2{
+	display: block;
+	height: 130px;
+	width: 130px;
+	border: 5px solid white;
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+}
+.foto3{
+	display: block;
+	height: 130px;
+	width: 130px;
+	border: 5px solid white;
+	margin-left: auto;
+	margin-right: auto;
+	float: right;
+}
+.parrafo4{
+	width: 365px;
+	height: 150px;
+	border: 5px solid white;
+	margin-bottom: 25px;
+}
+
+.foto4{
+	position: absolute;
+	height: 150px;
+	width: 150px;
+	border: 5px solid white;
+	left: 400px;
+	top: 470px;
+}
